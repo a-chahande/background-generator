@@ -6,7 +6,7 @@ first = int(sys.argv[1])
 last = int(sys.argv[2])
 
 while True:
-	print(f'numbers are between  {first} and {last}')
+	print(f'NUMBER are between  {first} and {last}')
 	
 	while True:
 		try:
