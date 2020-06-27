@@ -10,7 +10,7 @@ while True:
 	
 	while True:
 		try:
-			num = int(input('Choose a number:'))
+			num = int(input('CHOOSE A NUMBER:'))
 			if first <= num <= last:
 				if num == randint(first,last):
 					print('you are a genius!')
